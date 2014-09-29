@@ -1,0 +1,569 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01A4303219D1685D00A1B423 /* EVTAccount5.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4302F19D1685D00A1B423 /* EVTAccount5.m */; };
+		01A4303319D1685D00A1B423 /* EVTDemo5.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4303119D1685D00A1B423 /* EVTDemo5.m */; };
+		01A4303619D16B8800A1B423 /* EVTDispatchQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4303519D16B8800A1B423 /* EVTDispatchQueue.m */; };
+		01A4303C19D1745A00A1B423 /* EVTAccount6.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4303919D1745A00A1B423 /* EVTAccount6.m */; };
+		01A4303D19D1745A00A1B423 /* EVTDemo6.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4303B19D1745A00A1B423 /* EVTDemo6.m */; };
+		01A4304319D178C200A1B423 /* EVTAccount7.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4304019D178C200A1B423 /* EVTAccount7.m */; };
+		01A4304419D178C200A1B423 /* EVTDemo7.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4304219D178C200A1B423 /* EVTDemo7.m */; };
+		01A4304719D179C200A1B423 /* EVTAccountBalance.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A4304619D179C200A1B423 /* EVTAccountBalance.m */; };
+		01B1642219D079FF0006E729 /* EVTDemo1.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1642119D079FF0006E729 /* EVTDemo1.m */; };
+		01B1642519D07FFE0006E729 /* EVTDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1642419D07FFE0006E729 /* EVTDemo.m */; };
+		01B1642B19D151510006E729 /* EVTAccount2.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1642819D151510006E729 /* EVTAccount2.m */; };
+		01B1642C19D151510006E729 /* EVTDemo2.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1642A19D151510006E729 /* EVTDemo2.m */; };
+		01B1643219D154570006E729 /* EVTAccount3.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1642F19D154570006E729 /* EVTAccount3.m */; };
+		01B1643319D154570006E729 /* EVTDemo3.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1643119D154570006E729 /* EVTDemo3.m */; };
+		01B1643919D1572D0006E729 /* EVTAccount4.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1643619D1572D0006E729 /* EVTAccount4.m */; };
+		01B1643A19D1572D0006E729 /* EVTDemo4.m in Sources */ = {isa = PBXBuildFile; fileRef = 01B1643819D1572D0006E729 /* EVTDemo4.m */; };
+		01CC8A5119D0773B0098B2E8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01CC8A5019D0773B0098B2E8 /* AppDelegate.m */; };
+		01CC8A5319D0773B0098B2E8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01CC8A5219D0773B0098B2E8 /* main.m */; };
+		01CC8A5819D0773B0098B2E8 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 01CC8A5619D0773B0098B2E8 /* MainMenu.xib */; };
+		01CC8A6419D0773B0098B2E8 /* EvilThreadsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 01CC8A6319D0773B0098B2E8 /* EvilThreadsTests.m */; };
+		01CC8A7319D077B00098B2E8 /* EVTAccount1.m in Sources */ = {isa = PBXBuildFile; fileRef = 01CC8A7219D077B00098B2E8 /* EVTAccount1.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		01CC8A5E19D0773B0098B2E8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 01CC8A4219D0773B0098B2E8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 01CC8A4919D0773B0098B2E8;
+			remoteInfo = EvilThreads;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		01A4302E19D1685D00A1B423 /* EVTAccount5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount5.h; sourceTree = "<group>"; };
+		01A4302F19D1685D00A1B423 /* EVTAccount5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount5.m; sourceTree = "<group>"; };
+		01A4303019D1685D00A1B423 /* EVTDemo5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo5.h; sourceTree = "<group>"; };
+		01A4303119D1685D00A1B423 /* EVTDemo5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo5.m; sourceTree = "<group>"; };
+		01A4303419D16B8800A1B423 /* EVTDispatchQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDispatchQueue.h; sourceTree = "<group>"; };
+		01A4303519D16B8800A1B423 /* EVTDispatchQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDispatchQueue.m; sourceTree = "<group>"; };
+		01A4303819D1745A00A1B423 /* EVTAccount6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount6.h; sourceTree = "<group>"; };
+		01A4303919D1745A00A1B423 /* EVTAccount6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount6.m; sourceTree = "<group>"; };
+		01A4303A19D1745A00A1B423 /* EVTDemo6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo6.h; sourceTree = "<group>"; };
+		01A4303B19D1745A00A1B423 /* EVTDemo6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo6.m; sourceTree = "<group>"; };
+		01A4303F19D178C200A1B423 /* EVTAccount7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount7.h; sourceTree = "<group>"; };
+		01A4304019D178C200A1B423 /* EVTAccount7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount7.m; sourceTree = "<group>"; };
+		01A4304119D178C200A1B423 /* EVTDemo7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo7.h; sourceTree = "<group>"; };
+		01A4304219D178C200A1B423 /* EVTDemo7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo7.m; sourceTree = "<group>"; };
+		01A4304519D179C200A1B423 /* EVTAccountBalance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccountBalance.h; sourceTree = "<group>"; };
+		01A4304619D179C200A1B423 /* EVTAccountBalance.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccountBalance.m; sourceTree = "<group>"; };
+		01B1642019D079FF0006E729 /* EVTDemo1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo1.h; sourceTree = "<group>"; };
+		01B1642119D079FF0006E729 /* EVTDemo1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo1.m; sourceTree = "<group>"; };
+		01B1642319D07FFE0006E729 /* EVTDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo.h; sourceTree = "<group>"; };
+		01B1642419D07FFE0006E729 /* EVTDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo.m; sourceTree = "<group>"; };
+		01B1642719D151510006E729 /* EVTAccount2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount2.h; sourceTree = "<group>"; };
+		01B1642819D151510006E729 /* EVTAccount2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount2.m; sourceTree = "<group>"; };
+		01B1642919D151510006E729 /* EVTDemo2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo2.h; sourceTree = "<group>"; };
+		01B1642A19D151510006E729 /* EVTDemo2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo2.m; sourceTree = "<group>"; };
+		01B1642E19D154570006E729 /* EVTAccount3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount3.h; sourceTree = "<group>"; };
+		01B1642F19D154570006E729 /* EVTAccount3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount3.m; sourceTree = "<group>"; };
+		01B1643019D154570006E729 /* EVTDemo3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo3.h; sourceTree = "<group>"; };
+		01B1643119D154570006E729 /* EVTDemo3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo3.m; sourceTree = "<group>"; };
+		01B1643519D1572D0006E729 /* EVTAccount4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount4.h; sourceTree = "<group>"; };
+		01B1643619D1572D0006E729 /* EVTAccount4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount4.m; sourceTree = "<group>"; };
+		01B1643719D1572D0006E729 /* EVTDemo4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTDemo4.h; sourceTree = "<group>"; };
+		01B1643819D1572D0006E729 /* EVTDemo4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTDemo4.m; sourceTree = "<group>"; };
+		01CC8A4A19D0773B0098B2E8 /* EvilThreads.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EvilThreads.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		01CC8A4E19D0773B0098B2E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01CC8A4F19D0773B0098B2E8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		01CC8A5019D0773B0098B2E8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		01CC8A5219D0773B0098B2E8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		01CC8A5719D0773B0098B2E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		01CC8A5D19D0773B0098B2E8 /* EvilThreadsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EvilThreadsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		01CC8A6219D0773B0098B2E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01CC8A6319D0773B0098B2E8 /* EvilThreadsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EvilThreadsTests.m; sourceTree = "<group>"; };
+		01CC8A7119D077B00098B2E8 /* EVTAccount1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVTAccount1.h; sourceTree = "<group>"; };
+		01CC8A7219D077B00098B2E8 /* EVTAccount1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EVTAccount1.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		01CC8A4719D0773B0098B2E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		01CC8A5A19D0773B0098B2E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		01A4302D19D1685D00A1B423 /* Demo5 */ = {
+			isa = PBXGroup;
+			children = (
+				01A4303019D1685D00A1B423 /* EVTDemo5.h */,
+				01A4303119D1685D00A1B423 /* EVTDemo5.m */,
+				01A4302E19D1685D00A1B423 /* EVTAccount5.h */,
+				01A4302F19D1685D00A1B423 /* EVTAccount5.m */,
+				01A4303419D16B8800A1B423 /* EVTDispatchQueue.h */,
+				01A4303519D16B8800A1B423 /* EVTDispatchQueue.m */,
+			);
+			path = Demo5;
+			sourceTree = "<group>";
+		};
+		01A4303719D1745A00A1B423 /* Demo6 */ = {
+			isa = PBXGroup;
+			children = (
+				01A4303A19D1745A00A1B423 /* EVTDemo6.h */,
+				01A4303B19D1745A00A1B423 /* EVTDemo6.m */,
+				01A4303819D1745A00A1B423 /* EVTAccount6.h */,
+				01A4303919D1745A00A1B423 /* EVTAccount6.m */,
+			);
+			path = Demo6;
+			sourceTree = "<group>";
+		};
+		01A4303E19D178C200A1B423 /* Demo7 */ = {
+			isa = PBXGroup;
+			children = (
+				01A4304119D178C200A1B423 /* EVTDemo7.h */,
+				01A4304219D178C200A1B423 /* EVTDemo7.m */,
+				01A4303F19D178C200A1B423 /* EVTAccount7.h */,
+				01A4304019D178C200A1B423 /* EVTAccount7.m */,
+				01A4304519D179C200A1B423 /* EVTAccountBalance.h */,
+				01A4304619D179C200A1B423 /* EVTAccountBalance.m */,
+			);
+			path = Demo7;
+			sourceTree = "<group>";
+		};
+		01B1642619D151510006E729 /* Demo2 */ = {
+			isa = PBXGroup;
+			children = (
+				01B1642919D151510006E729 /* EVTDemo2.h */,
+				01B1642A19D151510006E729 /* EVTDemo2.m */,
+				01B1642719D151510006E729 /* EVTAccount2.h */,
+				01B1642819D151510006E729 /* EVTAccount2.m */,
+			);
+			path = Demo2;
+			sourceTree = "<group>";
+		};
+		01B1642D19D154570006E729 /* Demo3 */ = {
+			isa = PBXGroup;
+			children = (
+				01B1643019D154570006E729 /* EVTDemo3.h */,
+				01B1643119D154570006E729 /* EVTDemo3.m */,
+				01B1642E19D154570006E729 /* EVTAccount3.h */,
+				01B1642F19D154570006E729 /* EVTAccount3.m */,
+			);
+			path = Demo3;
+			sourceTree = "<group>";
+		};
+		01B1643419D1572D0006E729 /* Demo4 */ = {
+			isa = PBXGroup;
+			children = (
+				01B1643719D1572D0006E729 /* EVTDemo4.h */,
+				01B1643819D1572D0006E729 /* EVTDemo4.m */,
+				01B1643519D1572D0006E729 /* EVTAccount4.h */,
+				01B1643619D1572D0006E729 /* EVTAccount4.m */,
+			);
+			path = Demo4;
+			sourceTree = "<group>";
+		};
+		01CC8A4119D0773B0098B2E8 = {
+			isa = PBXGroup;
+			children = (
+				01CC8A4C19D0773B0098B2E8 /* EvilThreads */,
+				01CC8A6019D0773B0098B2E8 /* EvilThreadsTests */,
+				01CC8A4B19D0773B0098B2E8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		01CC8A4B19D0773B0098B2E8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				01CC8A4A19D0773B0098B2E8 /* EvilThreads.app */,
+				01CC8A5D19D0773B0098B2E8 /* EvilThreadsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		01CC8A4C19D0773B0098B2E8 /* EvilThreads */ = {
+			isa = PBXGroup;
+			children = (
+				01CC8A4F19D0773B0098B2E8 /* AppDelegate.h */,
+				01CC8A5019D0773B0098B2E8 /* AppDelegate.m */,
+				01CC8A5619D0773B0098B2E8 /* MainMenu.xib */,
+				01B1642319D07FFE0006E729 /* EVTDemo.h */,
+				01B1642419D07FFE0006E729 /* EVTDemo.m */,
+				01CC8A7019D077860098B2E8 /* Demo1 */,
+				01B1642619D151510006E729 /* Demo2 */,
+				01B1642D19D154570006E729 /* Demo3 */,
+				01B1643419D1572D0006E729 /* Demo4 */,
+				01A4302D19D1685D00A1B423 /* Demo5 */,
+				01A4303719D1745A00A1B423 /* Demo6 */,
+				01A4303E19D178C200A1B423 /* Demo7 */,
+				01CC8A4D19D0773B0098B2E8 /* Supporting Files */,
+			);
+			path = EvilThreads;
+			sourceTree = "<group>";
+		};
+		01CC8A4D19D0773B0098B2E8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				01CC8A4E19D0773B0098B2E8 /* Info.plist */,
+				01CC8A5219D0773B0098B2E8 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		01CC8A6019D0773B0098B2E8 /* EvilThreadsTests */ = {
+			isa = PBXGroup;
+			children = (
+				01CC8A6319D0773B0098B2E8 /* EvilThreadsTests.m */,
+				01CC8A6119D0773B0098B2E8 /* Supporting Files */,
+			);
+			path = EvilThreadsTests;
+			sourceTree = "<group>";
+		};
+		01CC8A6119D0773B0098B2E8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				01CC8A6219D0773B0098B2E8 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		01CC8A7019D077860098B2E8 /* Demo1 */ = {
+			isa = PBXGroup;
+			children = (
+				01B1642019D079FF0006E729 /* EVTDemo1.h */,
+				01B1642119D079FF0006E729 /* EVTDemo1.m */,
+				01CC8A7119D077B00098B2E8 /* EVTAccount1.h */,
+				01CC8A7219D077B00098B2E8 /* EVTAccount1.m */,
+			);
+			path = Demo1;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		01CC8A4919D0773B0098B2E8 /* EvilThreads */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 01CC8A6719D0773B0098B2E8 /* Build configuration list for PBXNativeTarget "EvilThreads" */;
+			buildPhases = (
+				01CC8A4619D0773B0098B2E8 /* Sources */,
+				01CC8A4719D0773B0098B2E8 /* Frameworks */,
+				01CC8A4819D0773B0098B2E8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EvilThreads;
+			productName = EvilThreads;
+			productReference = 01CC8A4A19D0773B0098B2E8 /* EvilThreads.app */;
+			productType = "com.apple.product-type.application";
+		};
+		01CC8A5C19D0773B0098B2E8 /* EvilThreadsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 01CC8A6A19D0773B0098B2E8 /* Build configuration list for PBXNativeTarget "EvilThreadsTests" */;
+			buildPhases = (
+				01CC8A5919D0773B0098B2E8 /* Sources */,
+				01CC8A5A19D0773B0098B2E8 /* Frameworks */,
+				01CC8A5B19D0773B0098B2E8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				01CC8A5F19D0773B0098B2E8 /* PBXTargetDependency */,
+			);
+			name = EvilThreadsTests;
+			productName = EvilThreadsTests;
+			productReference = 01CC8A5D19D0773B0098B2E8 /* EvilThreadsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		01CC8A4219D0773B0098B2E8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = ProjectWizards;
+				TargetAttributes = {
+					01CC8A4919D0773B0098B2E8 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					01CC8A5C19D0773B0098B2E8 = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 01CC8A4919D0773B0098B2E8;
+					};
+				};
+			};
+			buildConfigurationList = 01CC8A4519D0773B0098B2E8 /* Build configuration list for PBXProject "EvilThreads" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 01CC8A4119D0773B0098B2E8;
+			productRefGroup = 01CC8A4B19D0773B0098B2E8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				01CC8A4919D0773B0098B2E8 /* EvilThreads */,
+				01CC8A5C19D0773B0098B2E8 /* EvilThreadsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		01CC8A4819D0773B0098B2E8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				01CC8A5819D0773B0098B2E8 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		01CC8A5B19D0773B0098B2E8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		01CC8A4619D0773B0098B2E8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				01A4303319D1685D00A1B423 /* EVTDemo5.m in Sources */,
+				01A4303C19D1745A00A1B423 /* EVTAccount6.m in Sources */,
+				01CC8A5319D0773B0098B2E8 /* main.m in Sources */,
+				01A4303219D1685D00A1B423 /* EVTAccount5.m in Sources */,
+				01CC8A7319D077B00098B2E8 /* EVTAccount1.m in Sources */,
+				01B1643919D1572D0006E729 /* EVTAccount4.m in Sources */,
+				01B1643319D154570006E729 /* EVTDemo3.m in Sources */,
+				01A4304319D178C200A1B423 /* EVTAccount7.m in Sources */,
+				01B1642219D079FF0006E729 /* EVTDemo1.m in Sources */,
+				01CC8A5119D0773B0098B2E8 /* AppDelegate.m in Sources */,
+				01A4304419D178C200A1B423 /* EVTDemo7.m in Sources */,
+				01B1642C19D151510006E729 /* EVTDemo2.m in Sources */,
+				01A4303619D16B8800A1B423 /* EVTDispatchQueue.m in Sources */,
+				01B1642B19D151510006E729 /* EVTAccount2.m in Sources */,
+				01B1643A19D1572D0006E729 /* EVTDemo4.m in Sources */,
+				01B1642519D07FFE0006E729 /* EVTDemo.m in Sources */,
+				01A4304719D179C200A1B423 /* EVTAccountBalance.m in Sources */,
+				01B1643219D154570006E729 /* EVTAccount3.m in Sources */,
+				01A4303D19D1745A00A1B423 /* EVTDemo6.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		01CC8A5919D0773B0098B2E8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				01CC8A6419D0773B0098B2E8 /* EvilThreadsTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		01CC8A5F19D0773B0098B2E8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 01CC8A4919D0773B0098B2E8 /* EvilThreads */;
+			targetProxy = 01CC8A5E19D0773B0098B2E8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		01CC8A5619D0773B0098B2E8 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				01CC8A5719D0773B0098B2E8 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		01CC8A6519D0773B0098B2E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		01CC8A6619D0773B0098B2E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		01CC8A6819D0773B0098B2E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = EvilThreads/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		01CC8A6919D0773B0098B2E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = EvilThreads/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		01CC8A6B19D0773B0098B2E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = EvilThreadsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EvilThreads.app/Contents/MacOS/EvilThreads";
+			};
+			name = Debug;
+		};
+		01CC8A6C19D0773B0098B2E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = EvilThreadsTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EvilThreads.app/Contents/MacOS/EvilThreads";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		01CC8A4519D0773B0098B2E8 /* Build configuration list for PBXProject "EvilThreads" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01CC8A6519D0773B0098B2E8 /* Debug */,
+				01CC8A6619D0773B0098B2E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		01CC8A6719D0773B0098B2E8 /* Build configuration list for PBXNativeTarget "EvilThreads" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01CC8A6819D0773B0098B2E8 /* Debug */,
+				01CC8A6919D0773B0098B2E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		01CC8A6A19D0773B0098B2E8 /* Build configuration list for PBXNativeTarget "EvilThreadsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01CC8A6B19D0773B0098B2E8 /* Debug */,
+				01CC8A6C19D0773B0098B2E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 01CC8A4219D0773B0098B2E8 /* Project object */;
+}
